@@ -8,7 +8,7 @@
 
 Within this GitHub realm, you'll discover a diverse array of projects, code snippets, and experiments spanning various domains. From web applications harnessing the latest technologies to a wide range of software development projects, my GitHub is a testament to my unwavering commitment to the world of software development.
 
-In addition to my software engineering endeavors, I founded Innovatrix Tech at the age of 20 and currently serve as its CEO. This experience has provided me with valuable insights into entrepreneurship and leadership in the tech industry.
+In addition to my software engineering endeavors, I founded Sky Devs at the age of 17 and currently serve as its CEO. This experience has provided me with valuable insights into entrepreneurship and leadership in the tech industry.
 
 Programming isn't merely a job. It's a way of life. I'm motivated by the desire to craft meaningful solutions, tackle complex challenges, and embark on a perpetual journey of learning and growth in this dynamic field.
 
